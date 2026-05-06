@@ -1,16 +1,29 @@
-## Hi there 👋
+👋 Olá, eu sou Arthur Leal
 
-<!--
-**ArthurLeal-07/ArthurLeal-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Desenvolvedor apaixonado por tecnologia, inovação e resolução de problemas. 💡 Atualmente trabalhando como estagiário de programação/desenvolvovimento. 📚 Sempre em busca de aprender novas tecnologias e contribuir com a comunidade.
 
-Here are some ideas to get you started:
+🔧 Tecnologias & Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Linguagens: JavaScript, Python, C#, 
+
+Frameworks: Bootstrap, React, Node.js, Django, Vue.
+
+Banco de Dados: MySQL,PostGreSQL,Oracle.
+
+Outros: Git.
+
+📌 Projetos em destaque
+
+🔗 Projeto 1 - https://cyber-skills-dun.vercel.app
+
+🔗 Projeto 2 - https://casamento-dev.vercel.app
+
+🔗 Projeto 3 - Ainda em desenvolvimento
+
+📫 Como me encontrar
+
+💼 LinkedIn - https://www.linkedin.com/in/arthur-leal-991bb4323/
+
+🌐 Portfólio/Site Pessoal - 
+
+📧 Email: dcc7971@gmail.com
