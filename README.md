@@ -18,7 +18,7 @@ Outros: Git.
 
 🔗 Projeto 2 - https://casamento-dev.vercel.app
 
-🔗 Projeto 3 - Ainda em desenvolvimento
+🔗 Projeto 3 - https://github.com/ArthurLeal-07/Script-Limpeza-seletiva
 
 📫 Como me encontrar
 
